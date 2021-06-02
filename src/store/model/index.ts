@@ -61,6 +61,7 @@ import {Dcomp} from './dcomp';
 import {Drako} from './drako';
 import {DustinHomeNO} from './dustinhome-no';
 import {EbGames} from './ebgames';
+import {EbGamesau} from './ebgames-au';
 import {Ebuyer} from './ebuyer';
 import {Elcorteingles} from './elcorteingles';
 import {Elkjop} from './elkjop';
@@ -219,6 +220,7 @@ export const storeList = new Map([
   [Drako.name, Drako],
   [DustinHomeNO.name, DustinHomeNO],
   [EbGames.name, EbGames],
+  [EbGamesau.name, EbGamesau],
   [Ebuyer.name, Ebuyer],
   [Elcorteingles.name, Elcorteingles],
   [Elkjop.name, Elkjop],
