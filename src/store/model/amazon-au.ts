@@ -784,7 +784,7 @@ export const AmazonAU: Store = {
       cartUrl:
         'https://www.amazon.com.au/gp/aws/cart/add.html?ASIN.1=B07TRWJD45&Quantity.1=1',
       model: 'tpm-spi',
-      series: 'tpm-spi',
+      series: 'tpmspi',
       url: 'https://www.amazon.com.au/dp/B07TRWJD45',
     },
   ],

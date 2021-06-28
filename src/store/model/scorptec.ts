@@ -199,7 +199,7 @@ export const Scorptec: Store = {
     {
       brand: 'asus',
       model: 'tpm-spi',
-      series: 'tpm-spi',
+      series: 'tpmspi',
       url:
         'https://www.scorptec.com.au/product/motherboards/accessories/89822-tpm-spi',
     },

@@ -59,7 +59,7 @@ export type Series =
   | 'sf'
   | 'xboxsx'
   | 'xboxss'
-  | 'tpm-spi';
+  | 'tpmspi';
 
 export type Model =
   | 'test:model'

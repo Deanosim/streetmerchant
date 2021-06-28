@@ -152,7 +152,7 @@ export const Cpl: Store = {
     {
       brand: 'asus',
       model: 'tpm-spi',
-      series: 'tpm-spi',
+      series: 'tpmspi',
       url:
         'https://cplonline.com.au/asus-tpm-spi-tpm-chip.html',
     },

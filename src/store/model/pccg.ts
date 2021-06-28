@@ -143,7 +143,7 @@ export const Pccg: Store = {
     {
       brand: 'asus',
       model: 'tpm-spi',
-      series: 'tpm-spi',
+      series: 'tpmspi',
       url:
         'https://www.pccasegear.com/products/53881/asus-trusted-platform-module-spi',
     },
