@@ -58,7 +58,8 @@ export type Series =
   | 'sonyps5de'
   | 'sf'
   | 'xboxsx'
-  | 'xboxss';
+  | 'xboxss'
+  | 'tpm-spi';
 
 export type Model =
   | 'test:model'
@@ -198,7 +199,8 @@ export type Model =
   | 'xlr8 revel'
   | 'xlr8 uprising'
   | 'xtreme'
-  | 'qick';
+  | 'qick'
+  | 'tpm-spi';
 
 export type Link = {
   brand: Brand;
