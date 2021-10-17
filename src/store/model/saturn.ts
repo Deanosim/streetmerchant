@@ -205,6 +205,18 @@ export const Saturn: Store = {
       url: 'https://www.saturn.de/de/product/-2683226.html',
     },
     {
+      brand: 'asrock',
+      model: 'phantom gaming oc',
+      series: 'rx6700xt',
+      url: 'https://www.saturn.de/de/product/-85340951.html',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aorus elite',
+      series: 'rx6700xt',
+      url: 'https://www.saturn.de/de/product/-2728671.html',
+    },
+    {
       brand: 'sony',
       model: 'ps5 console',
       series: 'sonyps5c',
@@ -227,6 +239,36 @@ export const Saturn: Store = {
       model: 'ps5 console',
       series: 'sonyps5c',
       url: 'https://www.saturn.de/de/product/-2661938.html',
+    },
+    {
+      brand: 'sony',
+      model: 'ps5 console',
+      series: 'sonyps5c',
+      url: 'https://www.saturn.de/de/product/_sony-ps5-ghost-of-tsushima-directors-cut-2757003.html',
+    },
+    {
+      brand: 'sony',
+      model: 'ps5 console',
+      series: 'sonyps5c',
+      url: 'https://www.saturn.de/de/product/_sony-ps5-ratchet-clank-rift-apart-2741441.html',
+    },
+    {
+      brand: 'sony',
+      model: 'ps5 console',
+      series: 'sonyps5c',
+      url: 'https://www.saturn.de/de/product/_sony-playstationr5-deathloop-death-stranding-dc-nur-online-2768018.html',
+    },
+    {
+      brand: 'sony',
+      model: 'ps5 console',
+      series: 'sonyps5c',
+      url: 'https://www.saturn.de/de/product/_sony-playstationr5-death-stranding-directors-cut-nur-online-2765122.html',
+    },
+    {
+      brand: 'sony',
+      model: 'ps5 console',
+      series: 'sonyps5c',
+      url: 'https://www.saturn.de/de/product/_sony-playstationr5-ghost-of-tsushima-death-stranding-dc-nur-online-2768019.html',
     },
     {
       brand: 'sony',
