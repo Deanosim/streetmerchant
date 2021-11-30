@@ -104,6 +104,7 @@ import {MicroCenter} from './microcenter';
 import {MightyApe} from './mightyape';
 import {Mindfactory} from './mindfactory';
 import {Microsoft} from './microsoft';
+import {MicrosoftAU} from './microsoft-au';
 import {Msy} from './msy';
 import {Multicom} from './multicom';
 import {Mwave} from './mwave';
@@ -271,6 +272,7 @@ export const storeList = new Map([
   [Medimax.name, Medimax],
   [Megekko.name, Megekko],
   [Microsoft.name, Microsoft],
+  [MicrosoftAU.name, MicrosoftAU],
   [Ldlc.name, Ldlc],
   [LdlcEs.name, LdlcEs],
   [Materiel.name, Materiel],
