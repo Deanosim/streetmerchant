@@ -429,6 +429,7 @@ const store = {
       'test:series': envOrNumber(process.env.MAX_PRICE_SERIES_TEST),
       xboxss: envOrNumber(process.env.MAX_PRICE_SERIES_XBOXSS),
       xboxsx: envOrNumber(process.env.MAX_PRICE_SERIES_XBOXSX),
+      tpmspi: envOrNumber(process.env.MAX_PRICE_SERIES_TPMSPI),
     },
   },
   microCenterLocation: envOrArray(process.env.MICROCENTER_LOCATION, ['web']),
@@ -461,6 +462,7 @@ const store = {
     'sonyps5de',
     'xboxss',
     'xboxsx',
+    'tpm-spi',
   ]),
   stores: envOrArray(process.env.STORES, ['amazon', 'bestbuy']).map(entry => {
     const [name, minPageSleep, maxPageSleep] = entry.match(/[^:]+/g) ?? [];

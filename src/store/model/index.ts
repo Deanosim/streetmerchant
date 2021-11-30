@@ -19,6 +19,7 @@ import {AmazonIt} from './amazon-it';
 import {AmazonNl} from './amazon-nl';
 import {AmazonSg} from './amazon-sg';
 import {AmazonUk} from './amazon-uk';
+import {AmazonAU} from './amazon-au'
 import {Amd} from './amd';
 import {AmdAt} from './amd-at';
 import {AmdBe} from './amd-be';
@@ -63,6 +64,7 @@ import {CyberportAt} from './cyberport-at';
 import {Dcomp} from './dcomp';
 import {Drako} from './drako';
 import {DustinHomeNO} from './dustinhome-no';
+import {EbGamesau} from './ebgames-au';
 import {Ebuyer} from './ebuyer';
 import {Elcorteingles} from './elcorteingles';
 import {Eletronicamente} from './eletronicamente';
@@ -188,6 +190,7 @@ export const storeList = new Map([
   [AmazonNl.name, AmazonNl],
   [AmazonSg.name, AmazonSg],
   [AmazonUk.name, AmazonUk],
+  [AmazonAU.name, AmazonAU],
   [Amd.name, Amd],
   [AmdAt.name, AmdAt],
   [AmdBe.name, AmdBe],
@@ -232,6 +235,7 @@ export const storeList = new Map([
   [Dcomp.name, Dcomp],
   [Drako.name, Drako],
   [DustinHomeNO.name, DustinHomeNO],
+  [EbGamesau.name, EbGamesau],
   [Ebuyer.name, Ebuyer],
   [Elcorteingles.name, Elcorteingles],
   [Eletronicamente.name, Eletronicamente],

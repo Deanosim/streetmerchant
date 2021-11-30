@@ -130,6 +130,13 @@ export const Cpl: Store = {
       series: '3080',
       url: 'https://cplonline.com.au/graphics-cards/geforce-rtx-3080/msi-rtx-3080-ventus-3x-10g-oc-graphics-card.html',
     },
+    {
+      brand: 'asus',
+      model: 'tpm-spi',
+      series: 'tpmspi',
+      url:
+        'https://cplonline.com.au/asus-tpm-spi-tpm-chip.html',
+    },
   ],
   name: 'cpl',
 };

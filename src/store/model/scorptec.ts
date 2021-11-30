@@ -170,6 +170,13 @@ export const Scorptec: Store = {
       series: '3080',
       url: 'https://www.scorptec.com.au/product/graphics-cards/nvidia/85326-zt-a30800j-10p',
     },
+    {
+      brand: 'asus',
+      model: 'tpm-spi',
+      series: 'tpmspi',
+      url:
+        'https://www.scorptec.com.au/product/motherboards/accessories/89822-tpm-spi',
+    },
   ],
   name: 'scorptec',
 };

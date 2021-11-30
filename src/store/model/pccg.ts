@@ -122,6 +122,13 @@ export const Pccg: Store = {
       series: '3080',
       url: 'https://www.pccasegear.com/products/51752/msi-geforce-rtx-3080-gaming-x-trio-10gb',
     },
+    {
+      brand: 'asus',
+      model: 'tpm-spi',
+      series: 'tpmspi',
+      url:
+        'https://www.pccasegear.com/products/53881/asus-trusted-platform-module-spi',
+    },
   ],
   name: 'pccg',
 };
