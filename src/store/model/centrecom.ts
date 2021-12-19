@@ -20,6 +20,12 @@ export const Centrecom: Store = {
   links: [
     {
       brand: 'asus',
+      model: 'dual mini oc',
+      series: '1650',
+      url: 'https://www.centrecom.com.au/asus-dual-geforce-gtx-1650-mini-oc-edition-4gb-gddr6-graphics-card',
+    },
+    {
+      brand: 'asus',
       model: 'tuf oc',
       series: '3080',
       url: 'https://www.centrecom.com.au/asus-geforce-rtx-3080-tuf-oc-10gb-gaming-graphics-card',

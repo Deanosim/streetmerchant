@@ -39,6 +39,12 @@ export const Pccg: Store = {
       url: 'https://www.pccasegear.com/products/51850/asus-rog-strix-geforce-rtx-3080-oc-10gb',
     },
     {
+      brand: 'asus',
+      model: 'dual mini oc',
+      series: '1650',
+      url: 'https://www.pccasegear.com/products/55236/asus-geforce-gtx-1650-dual-mini-oc-4gb',
+    },
+    {
       brand: 'galax',
       model: 'sg oc',
       series: '3080',
@@ -126,8 +132,7 @@ export const Pccg: Store = {
       brand: 'asus',
       model: 'tpm-spi',
       series: 'tpmspi',
-      url:
-        'https://www.pccasegear.com/products/53881/asus-trusted-platform-module-spi',
+      url: 'https://www.pccasegear.com/products/53881/asus-trusted-platform-module-spi',
     },
   ],
   name: 'pccg',
